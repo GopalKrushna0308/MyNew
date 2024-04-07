@@ -1,0 +1,8 @@
+GML=>SGML=>1992-HTML,
+WWWC(world wide web consortitum)-1994-1996- CREN ->
+Cascading Style Sheets (CSS)
+Current Version of CSS is CSS3
+CSS is used for styling/Designing of the Web Page
+css can be in 2 ways:
+1. inline css : in the line of an element ,we can write "style" asa a property.
+2. internal css: usually all css with with selectors can be included in "style" element.
